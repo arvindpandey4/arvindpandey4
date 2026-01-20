@@ -2,12 +2,7 @@
 
 # 👋 Hi, I'm Arvind Pandey
 
-### Full-Stack + AI Engineer | Cloud-Native Architect | RAG Systems Specialist
-
-*Building scalable, production-ready systems that transform complex problems into elegant solutions*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=arvindpandey4&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/arvindpandey4)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arvindpandey4&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+### Full-Stack SaaS Developer | Cloud-Native Architect | AI Systems Engineer
 
 </div>
 
@@ -130,16 +125,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindpandey4&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindpandey4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**Thanks for visiting!** 🚀
 
-**Thanks for visiting! Let's build something amazing together.** 🚀
+[![Profile Views](https://komarev.com/ghpvc/?username=arvindpandey4&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/arvindpandey4)
 
 </div>
