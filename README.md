@@ -54,79 +54,38 @@ contact: avisandhyatech@gmail.com
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack
 
-<details open>
-<summary align="center"><h3>🔤 Languages</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,ruby,kotlin,bash&theme=dark&perline=8" />
-</p>
-</details>
+<div align="center">
 
-<details open>
-<summary align="center"><h3>🎨 Frontend Development</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,redux,html,css,sass,tailwind,bootstrap&theme=dark&perline=10" />
-</p>
-</details>
+### 🔤 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,go,kotlin,bash&theme=dark" />
 
-<details open>
-<summary align="center"><h3>⚙️ Backend Development</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,rails,nginx&theme=dark&perline=7" />
-</p>
-</details>
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,redux,html,css,sass,tailwind,bootstrap&theme=dark" />
 
-<details open>
-<summary align="center"><h3>📱 Mobile Development</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron&theme=dark&perline=4" />
-</p>
-</details>
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,nginx&theme=dark" />
 
-<details open>
-<summary align="center"><h3>☁️ Cloud & DevOps</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,heroku,firebase&theme=dark&perline=7" />
-</p>
-</details>
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron&theme=dark" />
 
-<details open>
-<summary align="center"><h3>🗄️ Databases</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark&perline=7" />
-</p>
-</details>
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,heroku,firebase&theme=dark" />
 
-<details open>
-<summary align="center"><h3>🤖 AI/ML & Data Science</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn"/>
-</p>
-</details>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark" />
 
-<details open>
-<summary align="center"><h3>📨 Message Brokers & Streaming</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark&perline=2" />
-</p>
-</details>
+### 🤖 AI/ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn"/>
 
-<details open>
-<summary align="center"><h3>🛠️ Tools & Others</h3></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,webpack,babel,postman,selenium,jest,grafana,figana,photoshop,linux,arduino,matlab&theme=dark&perline=12" />
-</p>
-</details>
+### 📨 Message Brokers & Streaming
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" />
+
+### 🛠️ Tools & Others
+<img src="https://skillicons.dev/icons?i=git,webpack,babel,postman,selenium,jest,grafana,figma,photoshop,linux,arduino,matlab&theme=dark" />
+
+</div>
 
 <br/>
 
@@ -169,8 +128,6 @@ contact: avisandhyatech@gmail.com
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
-
-<br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
