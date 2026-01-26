@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arvind%20Pandey&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arvind%20Pandey&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+SaaS+Developer;Cloud-Native+Architect;AI+Systems+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3BADE8&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+SaaS+Developer;Cloud-Native+Architect;AI+Systems+Engineer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -55,7 +55,7 @@ contact: avisandhyatech@gmail.com
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack
 
 <details open>
-<summary><b>🔤 Languages</b></summary>
+<summary align="center"><h3>🔤 Languages</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,ruby,kotlin,bash&theme=dark&perline=8" />
@@ -63,7 +63,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary align="center"><h3>🎨 Frontend Development</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,redux,html,css,sass,tailwind,bootstrap&theme=dark&perline=10" />
@@ -71,7 +71,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary align="center"><h3>⚙️ Backend Development</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,rails,nginx&theme=dark&perline=7" />
@@ -79,7 +79,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary align="center"><h3>📱 Mobile Development</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron&theme=dark&perline=4" />
@@ -87,7 +87,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary align="center"><h3>☁️ Cloud & DevOps</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,heroku,firebase&theme=dark&perline=7" />
@@ -95,7 +95,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary align="center"><h3>🗄️ Databases</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark&perline=7" />
@@ -103,7 +103,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary align="center"><h3>🤖 AI/ML & Data Science</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" />
@@ -113,7 +113,7 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>📨 Message Brokers & Streaming</b></summary>
+<summary align="center"><h3>📨 Message Brokers & Streaming</h3></summary>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark&perline=2" />
@@ -121,10 +121,10 @@ contact: avisandhyatech@gmail.com
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Others</b></summary>
+<summary align="center"><h3>🛠️ Tools & Others</h3></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,webpack,babel,postman,selenium,jest,grafana,figma,photoshop,linux,arduino,matlab&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,webpack,babel,postman,selenium,jest,grafana,figana,photoshop,linux,arduino,matlab&theme=dark&perline=12" />
 </p>
 </details>
 
@@ -140,10 +140,6 @@ contact: avisandhyatech@gmail.com
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arvindpandey4&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindpandey4&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindpandey4&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
@@ -176,16 +172,5 @@ contact: avisandhyatech@gmail.com
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arvindpandey4/arvindpandey4/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
