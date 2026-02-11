@@ -35,7 +35,7 @@
 ```yaml
 name: Arvind Pandey
 located_in: India
-current_project: ComplianceAI - AI-powered compliance automation
+current_project: Orbit-Ops
 learning: RAG systems, CI/CD orchestration, advanced cloud architectures
 expertise: 
   - Real-time applications
